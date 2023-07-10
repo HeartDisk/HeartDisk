@@ -1,4 +1,11 @@
 ### Hi there 👋 I am Noor Khan
+Back-end Development Enthusiastic
+15+ yrs of Experience
+Pursuing Blockchain Development & Cloud Computing (AWS)
+Expertise in PHP, Laravel, CodeIgniter, JavaScript, TypeScript, ES6, NodeJs, Database Development, Team Leading & Project Management
+Good in UI/UX designing skills
+MEAN stack learner
+
 
 <!--
 **HeartDisk/HeartDisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
